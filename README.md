@@ -38,6 +38,7 @@ Project Features :
 - Display total sales and monthly trends.
 - Compare region-wise performance.
 - Visualize top 5 products by sales.
+![power bi](https://github.com/user-attachments/assets/497ebba4-7b3c-41c8-9a0d-62799eb5204a)
 
  🔗 Live Project Link
 
