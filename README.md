@@ -49,6 +49,6 @@ You can view this project on GitHub here:
 
 Name: Vakiti Sravanthi  
 Email: vakitisravanthi83@gmail.com  
-Linkedin: [Vakiti Sravanthi](https://www.linkedin.com/in/vakiti-sravanthi)
+Linkedin: [Vakiti Sravanthi](https://www.linkedin.com/in/vakiti-sravanthi997/)
 
 ⭐ If you found this project helpful, feel free to star this repo and connect with me on LinkedIn!
